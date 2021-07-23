@@ -1,6 +1,7 @@
 ### ^~^ ~~~ 
 
-📞 connect :
+📞 ### connect :
+
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/duckintoyou/)](https://www.instagram.com/duckintoyou/) 
 [![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/sooa884)](https://blog.naver.com/sooa884)
 
